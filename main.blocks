@@ -1,0 +1,34 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="J7?uPf{^XpE={Zy~ylTh">mySprite</variable><variable type="KIND_SpriteKind" id="tc$blonmtK9]ia[Pu^]`">Player</variable><variable type="KIND_SpriteKind" id="49VXeocPs9jLRVZM[J.`">Projectile</variable><variable type="KIND_SpriteKind" id="QceWCmj-L{^r]Xmc*y~c">Food</variable><variable type="KIND_SpriteKind" id="i$-YNX6Mm+8S^YU[]gS0">Enemy</variable></variables><block type="pxt-on-start" id="C#*2#_)DB1~LC`{vyAK;" x="0" y="0"><statement name="HANDLER"><block type="variables_set" id="iOOphkh?=%DkrnrkwVY^"><field name="VAR" id="J7?uPf{^XpE={Zy~ylTh">mySprite</field><value name="VALUE"><shadow xmlns="http://www.w3.org/1999/xhtml" type="math_number"><field name="NUM">0</field></shadow><block type="spritescreate" id="m$wJB?4kzi7VZdeHe-zh"><value name="img"><shadow type="screen_image_picker" id="CTTT/%Smh=}RCMW5S[Jj"><field name="img">img`
+ffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffff
+fffffffffff5ffffffffffffffffffff
+ffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffff
+fff1ffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffff.fffff
+fffff2ffffff4fffffffffffffffffff
+ffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffff
+ffffffffffff7fffffffffffffffffff
+ffffffffffffffffffffffffffffffff
+ffffff3fffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffff
+ffff8fffffffff9fffffffffffffffff
+ffffffffffffffffffffffffffffffff
+ffffffffbfffffffffffffffffffffff
+ffffffffffffffffffffffffffffffff
+fffff6ffffffffffffffffffffffffff
+ffafffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffff
+ffefffffdfffffffffffffffffffffff
+ffffffffffffffffffffffffffffffff
+ffffffffffffffffffcfffffffffffff
+ffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffff
+ffffffffffffffffffffffffffffffff
+`</field></shadow></value><value name="kind"><shadow type="spritekind" id="$Qkgki+^?]HLAZ/a6MUq"><field name="MEMBER">Player</field></shadow></value></block></value></block></statement></block></xml>
